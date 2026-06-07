@@ -86,5 +86,4 @@ Build APK
 eas build --platform android
 
 Make sure you are logged in to Expo:
-
 eas login
